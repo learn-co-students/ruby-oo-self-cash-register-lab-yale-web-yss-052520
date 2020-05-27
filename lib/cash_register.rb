@@ -34,10 +34,3 @@ class CashRegister
 
 
 end
-
-# register = CashRegister.new
-
-# register.add_item("tomate", 0.99)
-
-# binding.pry
-# 0
